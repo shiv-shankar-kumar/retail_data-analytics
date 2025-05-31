@@ -26,7 +26,7 @@ This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline
   - Removed duplicate records
   - Handled and imputed missing/null values
   - Reformatted columns (e.g., date/time, category fields) for consistency and usability
-  - http://localhost:8888/notebooks/walmart_dataset.ipynb
+
 
 ### ✅ Load
 - Loaded the cleaned dataset into a **local MySQL database** using **SQLAlchemy’s `create_engine()`** method.
